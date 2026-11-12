@@ -1,0 +1,26 @@
+MOCHI 0.1.0 — WINDOWS DESKTOP STUDY BUDDY
+
+1. Extract this ZIP to a folder.
+2. Double-click Perch.exe. No account or installer is needed.
+3. Name Mochi on first launch. Click the corgi, choose Lock in, enter one goal,
+   and start a focus session.
+
+Click Mochi for notes, timers, alarms, reminders, customization, and focus
+controls. Drag him to move; gently rub him to pet him. Right-click and choose
+Emergency quit to close the app. Settings and notes stay on this PC in
+%LOCALAPPDATA%\Perch.
+
+During a focus session, Mochi can gently nudge you if the active Chrome, Edge,
+Firefox, Brave, Opera, or Vivaldi address bar shows YouTube, TikTok, or Roblox.
+Turn this off with the checkbox on the Lock in screen before starting a session.
+The nudge checks the active address bar locally; it does not save browsing
+history or send data online. Browser differences can make a nudge miss a page.
+Mochi does not block websites.
+
+Mochi checks for key and mouse button presses to animate while you work. He
+does not save keystrokes, typed text, or browsing history. The app makes no
+network requests.
+
+Requires Windows with .NET Framework 4.x and WPF. This app is unsigned, so
+Windows may show an unknown-publisher warning. Source code and build steps are
+included in the companion source ZIP. Licensed under the MIT License.

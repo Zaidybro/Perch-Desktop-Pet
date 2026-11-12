@@ -1,0 +1,9 @@
+outputs/
+assets/
+work/archive/
+work/browser-extension/
+work/smoke/
+work/*.exe
+work/*.bak
+work/Smoke.cs
+work/draft32.ps1
